@@ -1,0 +1,19 @@
+apiVersion: v2
+name: opencost
+description: OpenCost - Open Source Kubernetes Cost Monitoring
+type: application
+version: 1.0.0
+appVersion: "1.113.0"
+keywords:
+  - opencost
+  - cost
+  - kubernetes
+  - monitoring
+home: https://www.opencost.io/
+sources:
+  - https://github.com/opencost/opencost
+  - https://github.com/opencost/opencost-helm-chart
+maintainers:
+  - name: opencost
+    url: https://opencost.io
+dependencies: []
